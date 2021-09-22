@@ -4,7 +4,7 @@ Welcome to the world of Linux Computing.
 Within this repository, we will examine various concepts related to Linux Computing.
 
 Table of Contents:
-1) Basic Terminology (https://bit.ly/3hYAVEp)
+1) Basic Terminology (Vol. 1) (https://bit.ly/3hYAVEp)
 2) Networking
 3) Security
 4) General Terminology
