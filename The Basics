@@ -5,15 +5,20 @@ Within this repository, you'll find knowledge that is imperative to fully unders
 Vocabulary:
 1) Kernel - A 'Kernel' is a component of an Operating System that dicates System functionality.  
 
-2) Kernal Virtual Machine (KVM) - KVM or Kernal Virtual Machines are Virtual Machines that run along side the Linux Kernel.
+2) Kernel Virtual Machine (KVM) - KVM or Kernal Virtual Machines are Virtual Machines that run along side the Linux Kernel.
 
 3) QEMU - QEMU is software-assisted virtualization, this runs alongside you're operating system rather than your kernel.
 
 4) Desktop Enviroments - A desktop enviroment is the look and feel of your operating system, with Linux customization of this component is very simple.
 
-5) Distributions
-6) Apache Web Server / NGINX Web Server
-7) IoT Devices
-8) Network Time Protocal
-9) Bootloader
-10) GNU
+5) Distributions - A linux distribution is an operating system based on the Linux kernel.
+
+6) Apache Web Server / NGINX Web Server - The Apache and NGINX web servers provide the same benefits, although the steps to install each vary significantly.
+
+7) IoT Devices - IoT or Internet of Things devices are any embedded devices that utilze the internet to provide a specific action, or actions.
+
+8) Secure Shell Client - Secure Shell Client or SSH for short provides a secure CLI connection to a device.
+
+9) Linux Firewall - A Linux Firewall is an application that runs alongside the Linux kernel.
+
+10) Cluster - A cluster is a combination of computers designed serve a specific purpose (e.g. Virtualization, File Services, etc.) .
